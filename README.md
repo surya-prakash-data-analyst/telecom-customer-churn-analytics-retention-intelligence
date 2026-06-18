@@ -325,9 +325,9 @@ jupyter notebook notebooks/Churn_Analysis_EDA.ipynb
 
 **Built for:** Data Analyst | BI Analyst | Customer Insights Analyst | Business Analyst roles
 
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐙 [GitHub](https://github.com/yourusername)
+📧 suryaprakash1892@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst)
+🐙 [GitHub](https://github.com/surya-prakash-data-analyst)
 
 ---
 
