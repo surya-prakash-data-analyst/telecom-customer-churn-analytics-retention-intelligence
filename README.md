@@ -328,7 +328,7 @@ jupyter notebook notebooks/Churn_Analysis_EDA.ipynb
 📧 suryaprakash1892@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst)
 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)
-   [Portfolio](https://www.linkedin.com/in/surya-prakash-data-analyst)
+🌐 [Portfolio](https://suryaprakash18.lovable.app)
 
 ---
 
